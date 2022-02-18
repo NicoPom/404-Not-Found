@@ -22,21 +22,9 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgemnts)
-
-<!-- OVERVIEW -->
-
 ## Overview
 
-![screenshot](Screenshot 404.png)
+![screenshot](.Screenshot 404.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
